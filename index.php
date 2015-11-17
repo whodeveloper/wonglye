@@ -17,12 +17,19 @@
 			</div>
 
 			<div class = "navbar">
+				<ul>
+					<ls>Home</ls>
+					<ls>About</ls>
+					<ls>Contact</ls>
+				</ul>
 			</div>
 
 			<div class = "maincontent">
+				
 			</div>
 
 			<div class = "footer">
+				
 			</div>
 
 		</div>
